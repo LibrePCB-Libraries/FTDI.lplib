@@ -35,7 +35,7 @@
   (required false) (negated false) (clock false) (forced_net "")
  )
  (signal 93f7ac6b-b5fd-4443-909c-146ab6626e30 (name "RESET#") (role passive)
-  (required true) (negated false) (clock false) (forced_net "")
+  (required false) (negated false) (clock false) (forced_net "")
  )
  (signal 5a10a8fc-96bf-4eef-9960-a66ac0f62a1b (name "GND") (role passive)
   (required true) (negated false) (clock false) (forced_net "")
