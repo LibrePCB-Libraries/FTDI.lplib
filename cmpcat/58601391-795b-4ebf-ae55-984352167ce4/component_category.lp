@@ -1,0 +1,10 @@
+(librepcb_component_category 58601391-795b-4ebf-ae55-984352167ce4
+ (name "USB Interfaces")
+ (description "Devices that expose a specific bus over USB")
+ (keywords "usb")
+ (author "Martijn Braam")
+ (version "0.1")
+ (created 2018-12-02T21:27:32Z)
+ (deprecated false)
+ (parent f7f9bc34-7966-4af4-8cd4-4b8101e0823a)
+)
