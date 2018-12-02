@@ -1,0 +1,10 @@
+(librepcb_library 5d00d6ec-ce1e-4a1c-b5fb-78d1d41bdde7
+ (name "FTDI")
+ (description "Integrated USB Interface Circuits (inofficial).")
+ (keywords "")
+ (author "LibrePCB")
+ (version "0.1")
+ (created 2018-12-02T21:37:33Z)
+ (deprecated false)
+ (url "https://github.com/LibrePCB-Libraries/FTDI.lplib")
+)
