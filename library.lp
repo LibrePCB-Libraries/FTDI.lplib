@@ -1,6 +1,6 @@
 (librepcb_library 5d00d6ec-ce1e-4a1c-b5fb-78d1d41bdde7
  (name "FTDI")
- (description "Integrated USB Interface Circuits (inofficial).")
+ (description "Integrated USB Interface Circuits (unofficial).")
  (keywords "")
  (author "LibrePCB")
  (version "0.1")
