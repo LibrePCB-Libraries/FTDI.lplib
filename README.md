@@ -4,7 +4,7 @@
 
 Integrated USB Interface Circuits.
 
-Inofficial library, not endorsed by Future Technology Devices International
+Unofficial library, not endorsed by Future Technology Devices International
 Limited.
 
 ## License
