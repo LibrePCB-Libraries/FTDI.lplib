@@ -3,7 +3,7 @@
  (description "FT232R USB UART")
  (keywords "ftdi,usb,rs232")
  (author "Martijn Braam")
- (version "0.1")
+ (version "0.2")
  (created 2018-12-02T22:21:23Z)
  (deprecated false)
  (generated_by "")

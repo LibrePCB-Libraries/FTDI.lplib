@@ -3,7 +3,7 @@
  (description "Integrated USB Interface Circuits (unofficial).")
  (keywords "")
  (author "LibrePCB")
- (version "0.1.2")
+ (version "0.2")
  (created 2018-12-02T21:37:33Z)
  (deprecated false)
  (url "https://github.com/LibrePCB-Libraries/FTDI.lplib")
