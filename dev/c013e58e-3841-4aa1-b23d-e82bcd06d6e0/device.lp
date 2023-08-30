@@ -38,4 +38,8 @@
  (pad d8b9d190-a777-45f2-a46c-894d0f12cf1a (signal 5a10a8fc-96bf-4eef-9960-a66ac0f62a1b))
  (pad dd7e934b-ce89-41a2-9000-a1de4a51a5d1 (signal a782c367-ef12-4dfb-a1d4-1bbdbe417e21))
  (pad f3e96534-b6d9-4fa5-a37c-b0ed31992b29 (signal 3abb8ae0-5dd8-490c-bf70-2cb81222142e))
+ (part "FT232RL-TUBE" (manufacturer "FTDI")
+ )
+ (part "FT232RL-REEL" (manufacturer "FTDI")
+ )
 )
